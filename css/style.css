@@ -1,0 +1,19 @@
+h1{
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button{
+    width: 250px;
+    height: 80px;
+    border: 2px black solid;
+    border-radius: 0px;
+}
+.btn-hov:hover{
+       border: 2px black solid;
+       background-color: rgb(134, 134, 163); 
+}
+body{
+    background-image:url(../img.jpg) ;
+    background-size: cover;
+    background-position: center center;
+}
